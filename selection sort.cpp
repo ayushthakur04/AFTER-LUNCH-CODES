@@ -10,7 +10,7 @@ void printvector(vector<int>a)
     
 }
 int getindexofminelement(vector<int>a,int i)
-{
+{g
     int min_index=i;
     for(;i<a.size();i++)
     {
